@@ -2,7 +2,7 @@
 
 .blink-colour {
     animation-name: blink-colour-animation;
-    animation-duration: 10s;
+    animation-duration: 0.5s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
@@ -12,13 +12,13 @@
         color: white;
     }
     40% {
-        color: yellow;
+        color: red;
     }
     80% {
-        color: greenyellow;
+        color: chocolate;
     }
     100% {
-        color: orange;
+        color: rgb(39, 72, 205);
     }
 }
 
