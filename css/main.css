@@ -1,0 +1,70 @@
+div{
+    margin: 10px;
+    border: 5px solid black;
+    padding: 10px;
+    width: 300px;
+}
+
+
+h2 {
+    color:skyblue;
+    background-color:  darkblue
+}
+
+.profile {
+    background-color: deepskyblue;
+    text-align: center\;
+}
+
+.even-row {
+    background-color: blue;
+}
+
+header {
+    background-color: blue;
+    color:aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background-image: url(../img/blue-2tile.png);
+    font-family: "Segoe UI" , Tahoma, sans-serif;
+}
+
+body {
+    font-family: "Verdana", Geneva, sans-serif;
+    background-image: url("../omg/ocean_bg.jpg")
+
+}
+
+header {
+    background-color: #000080;
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid #fffaff;
+}
+
+.navbar {
+    background-color: #fffaff;
+    border: #000080;
+    font-size: 20px;
+}
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #FFFAFF;
+    color: #000080;
+    padding: 5px;
+    box-shadow: 5px 5px 10px black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
